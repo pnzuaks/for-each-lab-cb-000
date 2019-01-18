@@ -1,3 +1,3 @@
 function iterativeLog(array) {
-  array.foreach
+  array.foreach()
 }
