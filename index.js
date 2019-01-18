@@ -5,9 +5,9 @@ function iterativeLog(array) {
 }
 
 function iterate(callback) {
-  let array = [1, 2, 3, 4]
-  array.forEach(callback);
-  return array
+  let ray = [1, 2, 3, 4]
+  ray.forEach(callback);
+  return ray
 }
 
 function doToArray(array, callback) {
