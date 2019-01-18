@@ -1,4 +1,4 @@
 function iterativeLog(array) {
-  array.foreach(callback)
+  array.foreach((callback))
 
 }
